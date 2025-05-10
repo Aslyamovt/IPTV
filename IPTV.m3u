@@ -65,71 +65,28 @@ http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_RTGTV.m3u8
 #EXTINF:-1 group-title="ВСЕ КАНАЛЫ",RTG HD720
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Источник 2",Пятый канал (EDTV)
-http://178.212.71.253:8000/play/5/index.m3u8
-#EXTINF:-1 group-title="Источник 2",пятый
-http://81.177.208.87:4022/udp/232.0.3.5:1234
-#EXTINF:-1 group-title="Источник 2",Пятый канал
-http://81.177.208.87:4022/udp/232.0.2.56:1234
-#EXTINF:-1 group-title="Источник 2",Пятый Канал
-http://81.177.208.87:4022/udp/232.0.1.7:1234
-#EXTINF:-1 group-title="Источник 2",BBC World News
-http://81.177.208.87:4022/udp/232.0.2.42:1235
-#EXTINF:-1 group-title="Источник 2",CTC 1 
-http://81.177.208.87:4022/udp/232.0.1.12:1235
-#EXTINF:-1 group-title="Источник 2",CTC 2
-http://81.177.208.87:4022/udp/232.0.3.13:1234
-#EXTINF:-1 group-title="Источник 2",EuroNews
-http://81.177.208.87:4022/udp/232.0.2.29:1234
-#EXTINF:-1 group-title="Источник 2",Nickelodeon
-http://81.177.208.87:4022/udp/232.0.1.39:1234
-#EXTINF:-1 group-title="Источник 2",THT
-http://81.177.208.87:4022/udp/232.0.1.9:1235
-#EXTINF:-1 group-title="Источник 2",Авто Плюс
-http://81.177.208.87:4022/udp/232.0.2.39:1234
-#EXTINF:-1 group-title="Источник 2",Время
-http://81.177.208.87:4022/udp/232.0.1.52:123
-#EXTINF:-1 group-title="Источник 2",Домашний 1 
-http://81.177.208.87:4022/udp/232.0.1.11:1234
-#EXTINF:-1 group-title="Источник 2",Домашний 2 
-http://81.177.208.87:4022/udp/232.0.3.14:1234
-#EXTINF:-1 group-title="Источник 2",Домашний 3
-http://81.177.208.87:4022/udp/232.0.1.11:1235
-#EXTINF:-1 group-title="Источник 2",Кухня ТВ
-http://81.177.208.87:4022/udp/232.0.2.38:1234
-#EXTINF:-1 group-title="Источник 2",НТВ 1 
-http://81.177.208.87:4022/udp/232.0.1.4:1234
-#EXTINF:-1 group-title="Источник 2",НТВ 2
-http://81.177.208.87:4022/udp/232.0.3.4:1234
-#EXTINF:-1 group-title="Источник 2",ОТР 1 
-http://81.177.208.87:4022/udp/232.0.1.21:1234
-#EXTINF:-1 group-title="Источник 2",ОТР 2
-http://81.177.208.87:4022/udp/232.0.3.9:1234
-#EXTINF:-1 group-title="Источник 2",Охотник и Рыболов
-http://81.177.208.87:4022/udp/232.0.2.44:1234
-#EXTINF:-1 group-title="Источник 2",Охотник и рыболов HD
-http://81.177.208.87:4022/udp/232.0.1.37:1234
-#EXTINF:-1 group-title="Источник 2", Первый HD
-http://81.177.208.87:4022/udp/232.0.1.26:1234
-#EXTINF:-1 group-title="Источник 2",Первый
-http://81.177.208.87:4022/udp/232.0.3.1:1234
-#EXTINF:-1 group-title="Источник 2",Первый канал
-http://81.177.208.87:4022/udp/232.0.1.28:1234
-#EXTINF:-1 group-title="Источник 2",Первый канал HD
-http://81.177.208.87:4022/udp/232.1.20.4:1234
-#EXTINF:-1 group-title="Источник 2",РБК
-http://81.177.208.87:4022/udp/232.0.1.14:1234
-#EXTINF:-1 group-title="Источник 2",Рен ТВ
-http://81.177.208.87:4022/udp/232.0.1.23:1235
-#EXTINF:-1 group-title="Источник 2",Россия 1
-http://81.177.208.87:4022/udp/232.0.3.2:1234
-#EXTINF:-1 group-title="Источник 2",РоссиЯ 1
-http://81.177.208.87:4022/udp/232.0.1.5:1234
-#EXTINF:-1 group-title="Источник 2",РоссиЯ 1 HD
-http://81.177.208.87:4022/udp/232.0.1.57:1234
-#EXTINF:-1 group-title="Источник 2",РоссиЯ 24
-http://81.177.208.87:4022/udp/232.0.1.1:1234
-#EXTINF:-1 group-title="Источник 2",РоссиЯ 24 1
-http://81.177.208.87:4022/udp/232.0.3.7:1234
-#EXTINF:-1 group-title="Источник 2",Футбол
-http://81.177.208.87:4022/udp/232.0.2.64:1234
+
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Источник 2",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",Первый канал
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/210.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",Россия 24
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/30.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-id="STS.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",СТС
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/296.m3u8
+#EXTINF:-1 tvg-id="STS.ru" group-title="Источник 3",СТС
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",ТНТ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/38.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" group-title="Источник 3",ТНТ
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" group-title="Источник 3",Россия 24 (576p) [Not 24/7]
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
