@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ВСЕ КАНАЛЫ",Россия 24
+#EXTINF:-1 group-title="ВСЕ КАНАЛЫ", Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 tvg-id="rossia 24" group-title="ВСЕ КАНАЛЫ",Россия 24
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
 #EXTINF:-1 tvg-id="STS.ru" group-title="ВСЕ КАНАЛЫ",СТС
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
@@ -71,15 +73,6 @@ http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_RTGTV.m3u8
 #EXTINF:-1 group-title="ВСЕ КАНАЛЫ",RTG HD720
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
-
-#EXTINF:-1 group-title="Источник 3" tvg-logo="http://loganet.ru/images/channels/NTV-HD.png", НТВ HD
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 group-title="Источник 3", Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
-#EXTINF:-1 group-title="Источник 3", Первый канал Европа
-https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 group-title="Источник 3", Загородный 
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
 
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="Источник 2",Россия 1 (VGTRK Official)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
