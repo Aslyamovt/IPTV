@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ВСЕ КАНАЛЫ",Россия 24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-id="STS.ru" group-title="ВСЕ КАНАЛЫ",СТС
+https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" group-title="ВСЕ КАНАЛЫ",ТНТ
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 group-title="ВСЕ КАНАЛЫ",Матч!
 http://dmi3y-tv.ru/hls/T2/CH_MATCHTV.m3u8
 #EXTINF:-1 group-title="ВСЕ КАНАЛЫ",Звезда
@@ -65,28 +71,3 @@ http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_RTGTV.m3u8
 #EXTINF:-1 group-title="ВСЕ КАНАЛЫ",RTG HD720
 http://dmi3y-tv.ru/hls/CH_RTGHD720.m3u8
-
-#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Источник 2",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",Первый канал
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/210.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-https://streaming.televizor-24-tochka.ru/live/210.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",Россия 24
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/30.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru",Россия 24
-https://streaming.televizor-24-tochka.ru/live/30.m3u8
-#EXTINF:-1 tvg-id="STS.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",СТС
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/296.m3u8
-#EXTINF:-1 tvg-id="STS.ru" group-title="Источник 3",СТС
-https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 tvg-id="TNT.ru" http-referrer="https://televizor24tochka.ru/" group-title="Источник 3",ТНТ
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.skynetconnect.online/live/38.m3u8
-#EXTINF:-1 tvg-id="TNT.ru" group-title="Источник 3",ТНТ
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" group-title="Источник 3",Россия 24 (576p) [Not 24/7]
-https://uiptv.do.am/1ufc/000000006/playlist.m3u8
